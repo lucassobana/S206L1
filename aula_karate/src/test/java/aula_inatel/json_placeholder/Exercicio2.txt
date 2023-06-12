@@ -1,0 +1,12 @@
+Exercicio 2
+1) 6
+
+2) Automatizados pois eram testados outros codigos
+
+3) No topo, pois são testes end to end 
+
+4) Testes funcionais pois eles fazem os testes a partir do codigo fonte 
+
+5) Sim
+
+6) Deve ser determinado um tempo para o teste de regressão 
